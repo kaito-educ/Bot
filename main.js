@@ -35,7 +35,7 @@ const generateFiglet = async (text) => {
 
 try {
   // Using top-level await in ES2024
-  const figletText = await generateFiglet('Wataru');
+  const figletText = await generateFiglet('Bot');
   console.log(chalk.blue(figletText));
   
 

@@ -1,10 +1,10 @@
 {
-  "token": "8023651660:AAFh55kLkftKdkcMXK61H5B22YceSfJ1GMg",
+  "token": "7379888955:AAEU_9L30liJQeZUcuHriRhYZZdgtyT1qjo",
   "polling": true,
   "port": 8080,
   "api": "https://ajiro-api.onrender.com",
   "prefix": "-",
   "symbols": "●",
-  "owner": "Lance Ajiro",
-  "admin": ["6488288986"]
+  "owner": "Fritz Martin Amparado",
+  "admin": ["6793535178"]
 }
